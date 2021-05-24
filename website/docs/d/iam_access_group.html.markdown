@@ -8,7 +8,7 @@ description: |-
 
 # ibm\_iam_access_group
 
-Import the details of an existing [IAM Access Group](https://cloud.ibm.com/iam/groups) as a read-only data source. The fields of the data source can then be referenced by other resources within the same configuration using interpolation syntax.
+Import the details of an existing [IAM Access Group](https://cloud.ibm.com/iam/groups) as a read-only data source. The fields of the data source can then be referenced by other resources within the same configuration using interpolation.
 
 
 ## Example Usage
