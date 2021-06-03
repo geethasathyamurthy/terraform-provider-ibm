@@ -6,7 +6,7 @@ description: |-
   Manages IBM DedicatedHost.
 ---
 
-# ibm\_is_dedicated_host
+# ibm_is_dedicated_host
 
 Provides a resource for DedicatedHost. This allows DedicatedHost to be created, updated and deleted.
 
