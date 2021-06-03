@@ -13,7 +13,7 @@ Provides a read-only data source for secrets_manager_secret. You can then refere
 ## Example Usage
 
 ```terraform
-data "ibm_secrets_manager_secret" "secrets_manager_secret" {
+data "secrets_manager_secret" "secrets_manager_secret" {
 	instance_id = "36401ffc-6280-459a-ba98-456aba10d0c7"
 	secret_type = "arbitrary"
 	secret_id = "7dd2022c-5f54-f96d-4c32-87309e887e5"
